@@ -1,2 +1,2 @@
-#version control practice
+friday tutoring
 version control
