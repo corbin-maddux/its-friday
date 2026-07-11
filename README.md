@@ -1,2 +1,2 @@
-# its-friday
+version control practice
 version control
